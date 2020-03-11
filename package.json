@@ -2,13 +2,13 @@
   "name": "dam",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "scrape.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Nithish Ravindra",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.2"
