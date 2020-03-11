@@ -1,8 +1,11 @@
 {
-  "name": "dam",
-  "version": "1.0.0",
-  "description": "",
+  "name": "kardams",
+  "version": "1.0.1",
+  "description": "Gives information of dams in karnataka",
   "main": "scrape.js",
+  "bin":{
+    "kardams":"./scrape.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
