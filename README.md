@@ -1,6 +1,6 @@
 ## kardams
 
-Outputs the current waterlevel of major dams of karnataka.
+Gives the current waterlevel of major dams of karnataka.
 
 ## Install
 ```
