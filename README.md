@@ -9,7 +9,7 @@ npm i kardams -g
  ## Usuage 
 
 ```
-➜  ~  kardams
+➜  kardams
 ```
 
  ## License
